@@ -75,7 +75,7 @@ The model achieves an F1-score of **99.59%** on the test set, demonstrating exce
    **Predicted Tags**: `['B-LOC', 'O', 'O', 'B-LOC']`
 
 
-![Example Predictions](Results/Example Predictions.png)
+![Example Predictions](Results/Examples_of_Predictions.png)
 
 ---
 
